@@ -1,0 +1,5 @@
+model,MR,CR,SUBJ,MPQA,SICKEntailment,SST2,TREC,MRPC,avg
+USERNAMEj/gte-base-sst2-setfit-50k-v2,84.3,88.85,90.91,86.08,76.29,89.18,86.0,72.52,84.27
+USERNAMEj/gte-base-sarcasm-setfit-50k-v2,81.61,86.52,90.01,87.5,68.48,88.69,86.0,66.55,81.92
+USERNAMEj/e5-small-sst2-setfit-50k-v2,85.43,85.16,86.58,83.93,67.93,91.05,88.0,69.39,82.18
+USERNAMEj/e5-small-sarcasm-setfit-50k-v2,82.69,83.97,90.65,86.8,63.32,88.8,90.2,66.49,81.62

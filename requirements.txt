@@ -1,0 +1,9 @@
+torch
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+datasets
+tqdm
+wandb
+datasets

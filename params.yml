@@ -1,0 +1,9 @@
+RANDOM_SEED: 42
+SAMPLING_SEED: 42
+VERBOSE: false
+N_ITERS: 5
+EVAL_EVERY: 2
+BATCH_SIZE: 64
+DEVICE: cuda
+K: 16
+LEARNING_RATE: 0.00003 # 3e-5, specified to avoid conversion in safe_load
